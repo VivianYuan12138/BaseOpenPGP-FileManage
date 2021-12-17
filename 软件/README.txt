@@ -1,0 +1,1 @@
+window下双击运行 OpenPGP_File_Manage.exe
